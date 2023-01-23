@@ -1,0 +1,8 @@
+**/__pycache__/
+**/build/
+**/datasets/**
+**/data/**
+!datasets/*.sh
+*.pyd
+*.c
+*.pth
